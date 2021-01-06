@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stockbit Mini Project</string>
+    <string name="action_dont_have_account">Belum punya akun? <font color="#00AB6B">Daftar Sekarang</font></string>
+    <string name="action_have_account">Punya akun? <font color="#00AB6B">Masuk</font></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
